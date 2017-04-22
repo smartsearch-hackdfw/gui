@@ -1,4 +1,4 @@
-/*@font-face {
+@font-face {
   font-family: "gotbold";
   src: url('../res/Fonts/GOTHAM-BOLD.OTF') format("opentype");
 
@@ -7,10 +7,20 @@
 
   /*font-family: "gotbold";
   src: url('../res/Fonts/GOTHAM-BOLD.OTF') format("opentype");*/
-/*}
+}
 
-/*#title{
+#title{
   text-align: center;
-  font-family: "gotbold";
+  font-family: 'gotbold';
 
-}*/
+}
+
+#test{
+  text-align: center;
+  font-family: 'gotbold';
+}
+
+#go{
+  text-align: center;
+  font-family: 'gotbold';
+}
